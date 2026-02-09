@@ -1,5 +1,0 @@
-#include<stdio.h>
-int main() {
-printf("Great world");
-return 0;
-}
