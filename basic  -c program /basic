@@ -1,5 +1,0 @@
-#include<stdio.h>
-int main{
-printf("Basic Program");
-return 0;
-}
