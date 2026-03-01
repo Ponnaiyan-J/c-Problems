@@ -1,0 +1,5 @@
+#include<stdio.h>
+int main() {
+printf("string in c");
+return 0;
+}
